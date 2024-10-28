@@ -1,4 +1,4 @@
-Adriana Quiceno, grupo 14 Avo, Sprint
+Adriana Quiceno, grupo 14 Avo, Sprint 8
 
 **Proyecto de Pruebas Automatizadas con Selenium:**
 
